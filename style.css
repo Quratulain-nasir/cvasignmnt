@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.outline{ 
+    width: 700px;
+    height: 800px;
+    margin: 0px auto;
+}
+.border{
+    width: 100%;
+    padding: 5px;
+    background-color:darkgray;
+    border: 1px solid black;
+}
